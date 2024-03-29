@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">LuxeScent</string>
+    <string name="about_application">Tentang kami</string>
+    <string name="kembali">Kembali</string>
+    <string name="copyright">Deskripsi:\nLuxeScent adalah aplikasi mobile yang memudahkan pengguna
+        untuk menemukan dan membeli berbagai jenis parfum berkualitas dari seluruh dunia. Dengan LuxeScent,
+        pengguna dapat menjelajahi koleksi parfum eksklusif, membaca deskripsi detail tentang setiap produk,
+        dan melakukan pembelian dengan mudah.\n\nFitur:\n\n1. Koleksi Parfum Terlengkap: LuxeScent menawarkan
+        beragam pilihan parfum dari merek terkenal di seluruh dunia, termasuk parfum floral, fruity, woody,
+        dan oriental.\n2. Deskripsi Detail: Setiap parfum dilengkapi dengan deskripsi detail yang mencakup catatan aroma,
+        ketahanan wangi, dan rekomendasi penggunaan. Pengguna dapat dengan mudah mengetahui karakteristik masing-masing
+        parfum sebelum melakukan pembelian.\n3. Ulasan Pengguna: Baca ulasan dan penilaian dari pengguna lain untuk mendapatkan
+        wawasan tentang kualitas dan performa setiap parfum. Bagikan pengalaman Anda sendiri dan berinteraksi dengan komunitas
+        LuxeScent.\n4. Pengalaman Belanja Mudah: Nikmati pengalaman belanja yang mudah dengan navigasi yang intuitif, opsi pembayaran
+        yang aman, dan pengiriman yang cepat. Lakukan pembelian parfum favorit Anda hanya dalam beberapa kali klik dan dapatkan
+        pengiriman langsung ke alamat Anda.\n5. Pencarian Parfum: Gunakan fitur pencarian untuk menemukan parfum berdasarkan merek,
+        kisaran harga, atau keluarga aroma. Temukan parfum yang Anda cari dengan cepat dan mudah.
+        \n\nPengembang:\nAlif Alfaidz\nCopyright © 2024 - 2030 Alif Alfaidz.\nAll rights reserved.</string>
+
 </resources>
