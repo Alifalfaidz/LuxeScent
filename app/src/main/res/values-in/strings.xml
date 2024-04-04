@@ -4,6 +4,8 @@
     <string name="about_application">Tentang kami</string>
     <string name="kembali">Kembali</string>
     <string name="list_kosong">maaf kaka stock parfum sedang habis</string>
+    <string name="name_error">Error: Nama tidak boleh kosong</string>
+    <string name="phone_error">Error: Nomor telepon tidak boleh kosong</string>
     <string name="copyright">Deskripsi:\nLuxeScent adalah aplikasi mobile yang memudahkan pengguna
         untuk menemukan dan membeli berbagai jenis parfum berkualitas dari seluruh dunia. Dengan LuxeScent,
         pengguna dapat menjelajahi koleksi parfum eksklusif, membaca deskripsi detail tentang setiap produk,
